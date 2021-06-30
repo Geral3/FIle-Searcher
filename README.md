@@ -1,4 +1,4 @@
-﻿#File Searcher
+#File Searcher
 Hey, this is my first public repository. Its nothing big just a small simple file searcher made using C#.
 
 #Installation
